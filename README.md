@@ -1,2 +1,2 @@
 # Lawnicons
-Note from Dev: You may use this fork but be aware that I might not be able to update this because of school and im also planning to stop using a Lawnicons fork. It will take awhile since I have little to no knowledge in coding but I will be learning it. Thank You!
+Icons directly stripped from the apk files (Except for the Facebook Icon from RKicons and Minecraft Icon made by me)
