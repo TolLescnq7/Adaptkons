@@ -1,5 +1,5 @@
 # Warning
-Use [The new version](https://github.com/TolLescnq/Adaptikons) instead. It's newer and based on Candybar Dashboard instead of Lawnicons
+Use [the new version](https://github.com/TolLescnq/Adaptikons) instead. It's newer and based on Candybar Dashboard instead of Lawnicons
 
 
 # Adaptkons
